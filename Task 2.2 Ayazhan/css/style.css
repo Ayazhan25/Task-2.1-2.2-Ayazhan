@@ -1,0 +1,13 @@
+body{
+  background-image:url(../img/cat.png);
+  background-size: cover;
+}
+main{
+  width: 40%;
+  font-family: Tahoma;
+  color: white;
+}
+h2{
+  background-image: linear-gradient(to top, brown, rgba(165, 42, 42, 0.02));
+  padding: 10px;
+}
